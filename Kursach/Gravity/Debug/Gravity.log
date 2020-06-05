@@ -1,0 +1,9 @@
+﻿  CelestialObject.cpp
+  Display.cpp
+C:\Users\DELL\Desktop\Kursach\Gravity\Class\Display.h(12,27): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\DELL\Desktop\Kursach\Gravity\Class\Display.cpp(20,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  Space.cpp
+  Struct.cpp
+  Simulation-of-Gravity.cpp
+  Создание кода...
+  Gravity.vcxproj -> C:\Users\DELL\Desktop\Kursach\Gravity\Debug\Gravity.exe
